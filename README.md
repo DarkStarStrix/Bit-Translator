@@ -8,3 +8,5 @@ It's the foundation of digital information and data storage.
 If you'd like to learn more about binary, I recommend watching the Computer Science Basics: Binary video by GCFLearnFree. 
 It provides a concise explanation of how computers use binary to process information.
 
+![binary](https://github.com/DarkStarStrix/Bit-Translator/assets/108637439/f4fa046c-0232-4054-8e92-ecdf6948382a)
+
